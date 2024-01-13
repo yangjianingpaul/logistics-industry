@@ -1,3 +1,3 @@
 # Project Description Blog address:
 
-> https://yangjianingpaul.github.io/riding-sports-application/
+> https://yangjianingpaul.github.io/logistics-industry/
